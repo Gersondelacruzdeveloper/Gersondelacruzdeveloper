@@ -1,8 +1,8 @@
 # Hi there, I'm Gerson :wave:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Gersondelacruzdeveloper&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gersondelacruzdeveloper&layout=compact"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gersondelacruzdeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
- 
+
  ## Languges
  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
