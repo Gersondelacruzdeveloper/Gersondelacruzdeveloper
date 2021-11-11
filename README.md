@@ -1,4 +1,4 @@
-# Hi there, I'm Gerson :wave:
+# Hi there, Welcome to my Github page, I'm Gerson :wave:
 
 ### I'm a self-taught passionate Full Stack Software Developer from the Dominican Republic 🇩🇴
 
